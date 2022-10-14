@@ -1,9 +1,11 @@
 #include <stdio.h>
 /**
- * maint entry point for the program.
- *
- * return 0, othersie non zero
- */
+     * main-entry point for the program
+     *
+     * Return:0 if no errors, return non zero if errors
+     */
+
+
 
 int main(void)
 
